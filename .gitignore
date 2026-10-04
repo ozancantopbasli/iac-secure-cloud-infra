@@ -3,3 +3,5 @@
 *.tfstate.*
 crash.log
 *.tfvars
+.venv/
+output/
